@@ -1,0 +1,5 @@
+.git
+notebooks/data_all/
+notebooks/data_by_source/
+notebooks/andb/
+notebooks/.ipynb_checkpoints/
